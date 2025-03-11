@@ -12,7 +12,3 @@ module ternary_4_demux_4_bits (
 
 
 endmodule
-
-
-
-// ____ ? then : else
